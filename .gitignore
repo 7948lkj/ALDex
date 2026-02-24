@@ -1,0 +1,11 @@
+ycsb/workloads
+ycsb/YCSB
+build/
+.vscode/ 
+us_lat/*
+
+*.o
+*.a
+*.so
+*.dylib
+*.exe
