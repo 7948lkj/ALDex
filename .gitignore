@@ -3,6 +3,7 @@ ycsb/YCSB
 build/
 .vscode/ 
 us_lat/*
+!us_lat/.gitkeep
 
 *.o
 *.a
